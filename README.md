@@ -50,3 +50,10 @@ The Optical Fence is an IoT-based intrusion detection system developed using the
 
 Sadvika Paidiwar
 EEE Student  IoT Enthusiast
+## Circuit Diagram
+
+![Circuit Diagram](circuit%20diagram%20.png)
+
+## Hardware Setup
+
+![Hardware Setup](connection.png)
